@@ -1,4 +1,4 @@
-ARG BASE_CONTAINER=huange314/tensorflow-book-gpu:0.0.1
+ARG BASE_CONTAINER=huanghe314/tensorflow-book-gpu:0.0.1
 FROM $BASE_CONTAINER
 
 LABEL maintainer="zhenyu liu"
